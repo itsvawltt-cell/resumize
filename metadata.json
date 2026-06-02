@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "Optimize and score your resume against ATS tracking algorithms with AI-powered resume parsing, feedback, and job matching tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
